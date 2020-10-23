@@ -1,7 +1,7 @@
 
 import React,{ useEffect, useState } from "react";
 import './App.css'
-import Recipe from "./Recipe";
+import Recipe from "./components/Recipe";
 
 const App = ()=> {
   const APP_ID = '60f2d4ef';
