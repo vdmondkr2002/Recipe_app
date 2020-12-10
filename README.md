@@ -1,1 +1,1 @@
-This app provides you tons of mouthwatering recipes using data from edamam api
+This is a basic react app which provides mouthwatering recipes for you
